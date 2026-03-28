@@ -2,18 +2,17 @@
 
 System Override
 Our robotics journey began in 6th grade through EV3 classes, where an early interest in engineering evolved into a dedicated effort to design and build autonomous robotic systems. This shared passion led to the formation of System Override, a team focused on innovation, collaboration, and technical excellence.
+
 Achievements
 The team has consistently performed at high levels in international robotics competitions, including:
 2nd place at RoboCup Nationals India (2024, 2025)
 1st place in the Primary Category at RoboCup Asia-Pacific (RCAP) 2023, South Korea
 1st place in the Secondary Category at RCAP 2024, Qingdao
 1st place at the Singapore Open, April 2025
-Team Structure
-Ayaan Suri (Team Lead) – Responsible for hardware and electronics, including the design of custom 3D-printed components through 3D modelling. He has led EV3 programming efforts and managed team documentation.
-Tanash – Programmer specializing in OpenMV camera systems, while also managing media presence and contributing to documentation.
-Shaurya Mahajan – Programmer responsible for developing the foundational EV3 framework and working with Arduino Nano systems.
+
 Innovation
 The team actively focuses on developing custom solutions to enhance robot performance. This includes the use of 3D printing for rapid prototyping and the creation of custom silicone wheels to improve traction and control. The integration of advanced hardware such as Arduino-based systems and vision modules further strengthens the robot’s capabilities beyond standard platforms.
+
 Sustainability
 System Override adopts a resource-efficient approach by reusing components from previous projects, including wires, wheels, screws, sensors, and structural elements dating back to 2017. This practice reduces material waste while encouraging practical and creative engineering solutions.
 Open Source Initiative (RoboCup 2026)
